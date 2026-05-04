@@ -1,0 +1,20 @@
+EMS Integration Test Plan
+
+Goal:
+Make sure the EMS features work together.
+
+Workflow 1:
+Add Employee, then View Employees.
+
+Workflow 2:
+Record Attendance, then View Attendance.
+
+Workflow 3:
+Run all features in order:
+1. Add Employee
+2. View Employees
+3. Record Attendance
+4. View Attendance
+
+Expected result:
+The system saves and retrieves the correct information from the text files.
