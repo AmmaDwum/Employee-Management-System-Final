@@ -1,0 +1,31 @@
+EMS Manual Unit Test Cases
+
+Test 1: Add Employee
+Steps:
+- Run Main.java
+- Choose option 1
+- Enter name, role, and department
+Expected Result:
+- System displays "Employee saved."
+- Employee appears in employees.txt
+
+Test 2: View Employees
+Steps:
+- Choose option 2
+Expected Result:
+- Employees display in console
+
+Test 3: Record Attendance
+Steps:
+- Choose option 3
+- Enter employee name
+- Select Clock In or Clock Out
+Expected Result:
+- System displays "Attendance recorded."
+- Record appears in attendance.txt
+
+Test 4: View Attendance
+Steps:
+- Choose option 4
+Expected Result:
+- Attendance records display in console
